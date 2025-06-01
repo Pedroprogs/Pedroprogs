@@ -9,7 +9,6 @@
 <div>
   <a href="https://instagram.com/_Pedrohc37" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-christ-1a3b94364" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://calendar.google.com/calendar/u/3/r?pli=1" target="_blank"><img src="https://img.shields.io/badge/-Calendario-9146FF??style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://drive.google.com/drive/u/3/folders/15jeP7jQ4RcngfXbq1l33jHOv8N5QVfSt" target="_blank"><img src="https://img.shields.io/badge/-Drive-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+  <a href="https://calendar.google.com/calendar/u/3/r?pli=1" target="_blank"><img src="https://img.shields.io/badge/-Calendario-9146FF??style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
